@@ -1,6 +1,6 @@
 # React Router
 
-![React Router Logo](./react-router-logo.png)
+![React Router Logo](./src/images/react-router-logo.png)
 
 ## Learning Objectives
 
